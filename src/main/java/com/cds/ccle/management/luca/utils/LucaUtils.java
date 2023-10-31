@@ -11,6 +11,8 @@ import javax.mail.internet.InternetAddress;
 
 public class LucaUtils {
 
+# comentario para las practicas
+
 	private static final String HEX_PATTERN = "^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$";
 
 	public static boolean isNullOrEmpty(String validateString) {
